@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">طبيب الهاتف</string>
+    <string name="title">🩺 تشخيص السخونة والبطء</string>
+    <string name="btn_usage">منح إذن بيانات الاستخدام (لمعرفة التطبيق المسبب)</string>
+    <string name="btn_battery">فتح إعدادات استهلاك البطارية</string>
+    <string name="btn_refresh">تحديث الفحص الآن</string>
+</resources>
